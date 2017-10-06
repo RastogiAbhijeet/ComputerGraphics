@@ -1,4 +1,4 @@
-// Line drawing Algo using Mid Point
+// Bresenham's Line Drawing Algorithm
 
 #include<iostream.h>
 #include<conio.h>
