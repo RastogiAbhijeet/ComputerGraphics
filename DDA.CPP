@@ -1,3 +1,5 @@
+// DDA algorithm is used to draw a line on computer screen. It works on the slope intercept form of a line i.e. y = mx+c
+
 #include<graphics.h>
 #include<iostream.h>
 #include<conio.h>
